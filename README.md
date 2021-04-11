@@ -12,3 +12,6 @@ Aqui você pode manusear seus projetos e como não há nenhum ela(sunset) está 
 
 ![fab](https://user-images.githubusercontent.com/65344982/114323081-e554b480-9af9-11eb-9157-dede332af044.png)
 
+A Sunset possui um sistema de ids e você pode usar nomes repetidos pois ela irá reconher como outro projeto.
+
+![create](https://user-images.githubusercontent.com/65344982/114323201-90fe0480-9afa-11eb-8d99-12866ae6318b.png)
