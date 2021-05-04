@@ -27,11 +27,18 @@ O gerador de paletas como o próprio nome ja diz, ele gera cores aleatorias e qu
 
  *Criar Comandos*
 
-Aqui nós iremos criar nossos comandos. Na programação chamamos os itens na tela de widgets ou view dependendo do caso
+Aqui nós iremos criar nossos comandos. Na programação chamamos os itens na tela de widgets ou view dependendo do caso.
+
 No primeiro widget(nome do comando) iremos colar o nome do comando e será ele que aparecerá na tela dos scripts.
 
-No segundo vamos escolher a tag que será substituída. Ao criar um comando, ela adiciona essa tag e ao usar esse comando, a sunset substitui essa mesma tag pelo código e uma próxima tag que será trocada por outros códigos futuramente
+No segundo vamos escolher a tag que será substituída. Ao criar um comando, ela adiciona essa tag e ao usar esse comando, a sunset substitui essa mesma tag pelo código e uma próxima tag que será trocada por outros códigos mais tarde.
 
 No terceiro widget será o comando, no caso dera o código que irá ser adicionado ao projeto 
 
-No quarto temos a extensão do arquivo. A sunset tem sistema básicos e por isso é necessario escolher a extensão apesa de que removeremos isso futuramente
+No quarto temos a extensão do arquivo. A sunset tem sistema básicos e por isso é necessario escolher a extensão apesa de que removeremos isso futuramente.
+
+Para compartilhar comandos ou paleta de cores,basta localizar os arquivos ```CMD``` ou ```color``` na pasta :
+
+```/storage/emulated/0/SunsetEngine/.Imports/(arquivo)```
+
+Agora é só ser feliz, adicionae varios comandos e compartilhar com os amigos :D
