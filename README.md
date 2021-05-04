@@ -22,3 +22,10 @@ A Sunset possui um sistema de ids e você pode usar nomes repetidos pois ela ir�
 *Gerador De Paleta*
 
 O gerador de paletas como o próprio nome ja diz, ele gera cores aleatorias e que você pode usar no seu projeto. Ao iniciar o projeto pela primeira vez será gerada as cores uma única vez e também um arquivo contendo essas cores, no qual pode ser compartilhado com outra pessoas. Para gerar mais cores basta clicar no fab e o processo se repetirá.
+
+![comando](https://user-images.githubusercontent.com/65344982/117059037-bf37c400-acf5-11eb-959b-bafb844a3677.jpg)
+
+ *Criar Comandos*
+
+Aqui nós iremos criar nossos comandos. Na programação chamamos os itens na tela de widgets ou view dependendo do caso
+No primeiro widget(nome do comando) iremos colar o nome do comando e será ele que aparecerá na tela dos scripts.
